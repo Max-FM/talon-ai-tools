@@ -6,6 +6,9 @@ Open this file in a text editor, highlight the text to be formatted, and use the
 
 `model format table`
 
+## Description
+
+This command converts raw text data into a well-structured markdown table format. Each row of the input text is arranged into columns, creating a cleaner and more organized presentation of data.
 
 ## Text to Format
 

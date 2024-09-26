@@ -6,6 +6,9 @@ Open this file in a text editor, highlight the text to be fixed, and use the bel
 
 `model fix grammar` or `model fix grammar formally`
 
+## Description
+
+These commands correct mistakes in grammar, spelling, and formatting. The `fix grammar` option performs corrections but maintains the original tone of the text. For `fix grammar formally`, the text is refined into a formal business tone while addressing homophones and misrecognitions common in voice dictation without changing the original structure.
 
 ## Text to Fix
 

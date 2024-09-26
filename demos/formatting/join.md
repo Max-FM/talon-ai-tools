@@ -6,6 +6,10 @@ Open this file in a text editor, highlight the text to be joined, and use the be
 
 `model join`
 
+## Description
+
+This command combines multiple disjointed parts of text into a single coherent paragraph. It maintains the flow and meaning of the original text, removing redundancies and reordering sections where necessary for smoother readability.
+
 ## Text to Format
 
 The training program for new hires begins next month.

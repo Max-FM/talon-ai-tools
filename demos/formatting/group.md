@@ -6,6 +6,10 @@ Open this file in a text editor, highlight the text to be grouped, and use the b
 
 `model group`
 
+## Description
+
+This command organizes disjointed or related text into appropriate categories. It groups similar ideas together under clear labels, making the text more structured and easier to understand.
+
 ## Text to Format
 
 The marketing department will handle the advertisement for the upcoming product launch. In addition, the finance team will oversee budgeting and expenditures. The design team is currently working on product packaging, while the sales team is preparing to reach out to clients. Lastly, human resources is coordinating employee onboarding for new hires next month. Meanwhile, the software development team is working on the final phase of product testing. IT is also updating the company’s internal systems to improve efficiency.

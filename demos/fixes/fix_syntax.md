@@ -6,6 +6,10 @@ Open this file in a text editor, highlight the code block to be fixed, and use t
 
 `model fix syntax`
 
+## Description
+
+This command fixes any syntax errors in the provided code selection without changing the behavior of the code. It ensures that the code is written with correct syntax while preserving its original functionality.
+
 ## Code to Fix
 
 ```python
