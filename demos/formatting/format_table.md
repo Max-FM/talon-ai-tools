@@ -2,7 +2,7 @@
 
 Open this file in a text editor, highlight the text to be formatted, and use the below Talon command to see the formatting in action.
 
-## Command(s) to Use
+## Command to Use
 
 `model format table`
 
