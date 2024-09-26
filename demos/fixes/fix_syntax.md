@@ -22,7 +22,7 @@ print "Even number: ", i
 
 ```
 
-## Example output
+## Example Output
 
 ```python
 
