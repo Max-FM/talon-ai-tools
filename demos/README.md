@@ -5,4 +5,4 @@
 - The demo files are in markdown format, allowing them to be opened in any text editor.
   - Code demos are also in markdown format to prevent the triggering of errors in the Talon user directory, as the code is not intended to be executed.
 
-- All example outputs were created using input text with Talon AI Tools.
+- All example outputs were created using the input text with Talon AI Tools.
